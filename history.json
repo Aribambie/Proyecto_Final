@@ -1,0 +1,14 @@
+[
+    {
+        "pregunta": "Cuantos hermanos tenia Kafka",
+        "respuesta": "The provided dataframe does not contain sufficient information to answer the question. We would need a more detailed dataset or text about Kafka's life and work to provide a comprehensive answer."
+    },
+    {
+        "pregunta": "Caracteristicas de los relatos de kafka",
+        "respuesta": "Lo siento, pero la informaci\u00f3n proporcionada en el dataframe no es suficiente para responder a la pregunta. El dataframe solo contiene el t\u00edtulo, subt\u00edtulo y p\u00e1rrafo de algunos textos, pero no proporciona ninguna informaci\u00f3n sobre la vida de Kafka, fechas relevantes, caracter\u00edsticas de escritura o an\u00e1lisis literario."
+    },
+    {
+        "pregunta": "Caracteristicas de los relatos de kafka",
+        "respuesta": "Para responder a la pregunta, necesitar\u00eda realizar un an\u00e1lisis de procesamiento de lenguaje natural en la columna \"P\u00e1rrafo\" del dataframe. Esto podr\u00eda incluir un an\u00e1lisis de sentimientos para entender el tono general de los relatos de Kafka, as\u00ed como la identificaci\u00f3n de las palabras m\u00e1s comunes para entender los temas principales. Sin embargo, no puedo realizar este an\u00e1lisis aqu\u00ed ya que requiere t\u00e9cnicas de NLP y bibliotecas adicionales que no est\u00e1n disponibles en este entorno."
+    }
+]
